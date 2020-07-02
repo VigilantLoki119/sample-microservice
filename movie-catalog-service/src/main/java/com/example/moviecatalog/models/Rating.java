@@ -6,6 +6,9 @@ public class Rating {
 	private String rating;
 	
 	
+	public Rating() {
+		super();
+	}
 	public Rating(String name, String rating) {
 		super();
 		this.name = name;
