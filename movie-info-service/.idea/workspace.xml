@@ -20,42 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9543bb8e-db11-4b2c-970e-f04508c9320b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/movie-info-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/movie-info-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/com/example/moviecatalog/MovieCatalogServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/com/example/moviecatalog/MovieCatalogServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/com/example/moviecatalog/resource/MovieCatalogResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/com/example/moviecatalog/resource/MovieCatalogResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/target/classes/com/example/moviecatalog/MovieCatalogServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/target/classes/com/example/moviecatalog/MovieCatalogServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/target/classes/com/example/moviecatalog/resource/MovieCatalogResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/target/classes/com/example/moviecatalog/resource/MovieCatalogResource.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/movieinfo/MovieInfoServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/movieinfo/MovieInfoServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.example/movie-info-service/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.example/movie-info-service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/movieinfo/MovieInfoServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/movieinfo/MovieInfoServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/movieinfo/models/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/movieinfo/models/Movie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/movieinfo/resources/MovieResources.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/movieinfo/resources/MovieResources.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/movieinfo/MovieInfoServiceApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/movieinfo/MovieInfoServiceApplicationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ratings-data-service/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ratings-data-service/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ratings-data-service/.idea/ratings-data-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ratings-data-service/.idea/ratings-data-service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ratings-data-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ratings-data-service/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ratings-data-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ratings-data-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ratings-data-service/src/main/java/com/example/ratingsdata/RatingsDataServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ratings-data-service/src/main/java/com/example/ratingsdata/RatingsDataServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ratings-data-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ratings-data-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ratings-data-service/target/classes/com/example/ratingsdata/models/UserRating.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ratings-data-service/target/classes/com/example/ratingsdata/models/UserRating.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
